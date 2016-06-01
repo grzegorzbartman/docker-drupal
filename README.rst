@@ -19,7 +19,7 @@ Requirements for docker-drupal:
 
 Ubuntu 16.04   
 
-sudo apt-get install python-yaml python-setuptools python-pip python-dev build-essential
+sudo apt-get install python-yaml python-setuptools python-pip python-dev build-essential  
 sudo pip install python-dotenv
 
 
