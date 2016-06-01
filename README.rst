@@ -16,7 +16,12 @@ Requirements for docker-drupal:
 * Python 2.7
 * setuptools
 * pyyaml
-|
+
+Ubuntu 16.04   
+
+sudo apt-get install python-yaml python-setuptools
+
+
 * docker
 * docker-compose
 
